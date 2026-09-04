@@ -2,7 +2,9 @@
 
 A curated list of **GPT-6 Astra** resources: official docs, gateways, Codex skills, and orchestrators.
 
-Original blurbs. Links only — not a scrape of other awesome lists. PRs welcome (one link + 1–2 sentences you wrote). No star-farming.
+Original blurbs. Links only — not a scrape of other awesome lists.
+
+**Scope note:** This repo tracks **community orchestrators + built-with demos**. For official workflow cases, prompt patterns, and launch scorecards, prefer [Anil-matcha/awesome-gpt-6-astra](https://github.com/Anil-matcha/awesome-gpt-6-astra) (we link it below; we do not copy its case writeups). PRs welcome (one link + 1–2 sentences you wrote). No star-farming.
 
 > Model id: `gpt-6-astra` · Prefer the **Responses API** for tool calling · Reasoning effort: `low` / `medium` / `high` / `xhigh` / `max`
 
@@ -11,8 +13,14 @@ Original blurbs. Links only — not a scrape of other awesome lists. PRs welcome
 | Link | Notes |
 |------|--------|
 | [OpenAI: GPT-6 Astra](https://openai.com/index/gpt-6-astra/) | Launch overview — computer use, coding, science, Codex memory notes |
-| [API model card: `gpt-6-astra`](https://developers.openai.com/api/docs/models/gpt-6-astra) | Snapshots, tools, reasoning.effort |
-| [System / deployment safety](https://deploymentsafety.openai.com/gpt-6-astra/model-safety-training-and-evaluation) | Preparedness notes (cyber capability tier) |
+| [API model card: `gpt-6-astra`](https://developers.openai.com/api/docs/models/gpt-6-astra) | Snapshots, tools, reasoning.effort, context / pricing |
+| [Latest-model guide](https://developers.openai.com/api/docs/guides/latest-model) | How OpenAI positions Astra for hard end-to-end work |
+| [Reasoning guide](https://developers.openai.com/api/docs/guides/reasoning) | `reasoning.effort` (`low`…`max`); Responses API for tool calling |
+| [Computer use tools](https://developers.openai.com/api/docs/guides/tools-computer-use) | Browser/desktop loops; isolate real accounts |
+| [Safety overview](https://openai.com/index/safety-overview-gpt-6-astra/) | Alignment / cyber capability notes |
+| [Daybreak (defensive security)](https://openai.com/index/daybreak-for-frontline-defenders/) | Authorized defensive program framing |
+| [System / deployment safety](https://deploymentsafety.openai.com/gpt-6-astra/model-safety-training-and-evaluation) | Preparedness eval writeup |
+| [OpenAI Cookbook](https://github.com/openai/openai-cookbook) | Practical API patterns |
 
 ## Gateways & SDKs
 
@@ -77,7 +85,9 @@ Projects that claim Astra generated or drove the work. Claims are from each READ
 | [I-Cam-Mc/undumbify](https://github.com/I-Cam-Mc/undumbify) | Scopes one-shots into copy-ready Sol / Astra prompts |
 | [VoidLight00/solgate](https://github.com/VoidLight00/solgate) | Local gateway: Astra + Sol/Terra/Luna inside Claude Code |
 | [hancengiz/gpt6astra.watch](https://github.com/hancengiz/gpt6astra.watch) | Crowd-watched Astra rollout / account watcher |
-| [Anil-matcha/awesome-gpt-6-astra](https://github.com/Anil-matcha/awesome-gpt-6-astra) | Another evidence-backed Astra catalog |
+| [Anil-matcha/awesome-gpt-6-astra](https://github.com/Anil-matcha/awesome-gpt-6-astra) | **Sister catalog:** first-party OpenAI use-cases, prompts, benchmarks, safety — complementary to our community/orchestrator focus |
+| [Anil-matcha/awesome-claude-fable-5](https://github.com/Anil-matcha/awesome-claude-fable-5) | Same maintainer’s Claude Fable 5 collection |
+| [Anil-matcha/awesome-claude-fable-5-1](https://github.com/Anil-matcha/awesome-claude-fable-5-1) | Fable 5.1 launch / migration notes |
 
 ## Contributing
 
