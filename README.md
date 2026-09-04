@@ -52,6 +52,25 @@ Original blurbs. Links only — not a scrape of other awesome lists.
 | [Audie-glitch/awesome-x402](https://github.com/Audie-glitch/awesome-x402) | Agent USDC / HTTP 402 rails (orthogonal money path) |
 
 
+
+## Pliny / elder-plinius (system prompts)
+
+Author archives from [elder-plinius](https://github.com/elder-plinius). Do not omit when syncing catalogs.
+
+| Link | Notes |
+|------|--------|
+| [CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) | Multi-vendor system prompt archive |
+| [OPENAI/](https://github.com/elder-plinius/CL4R1T4S/tree/main/OPENAI) | ChatGPT / GPT / Codex captures |
+| [OPENAI/Codex.md](https://github.com/elder-plinius/CL4R1T4S/blob/main/OPENAI/Codex.md) | Codex system prompt file |
+| [OPENAI/Codex_Desktop](https://github.com/elder-plinius/CL4R1T4S/tree/main/OPENAI/Codex_Desktop) | Codex Desktop captures |
+| [CURSOR/](https://github.com/elder-plinius/CL4R1T4S/tree/main/CURSOR) | Cursor system prompts (agent harness adjacent to Astra coding) |
+| [L1B3RT4S](https://github.com/elder-plinius/L1B3RT4S) | Liberation / jailbreak-style prompts |
+| [G0DM0D3](https://github.com/elder-plinius/G0DM0D3) | Liberated AI chat |
+| [LEAKHUB](https://github.com/elder-plinius/LEAKHUB) | Prompt-leak leaderboard |
+| [P4RS3LT0NGV3](https://github.com/elder-plinius/P4RS3LT0NGV3) | Promptcrafting / text mutation |
+| [AutoRedTeam](https://github.com/elder-plinius/AutoRedTeam) | Prompt-defense testing |
+| [T3MP3ST](https://github.com/elder-plinius/T3MP3ST) | Multi-agent red-team harness |
+
 ## Examples built with GPT-6 Astra
 
 Projects that claim Astra generated or drove the work. Claims are from each README/description — verify before trusting.
