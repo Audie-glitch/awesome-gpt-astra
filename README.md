@@ -92,18 +92,36 @@ Projects that claim Astra generated or drove the work. Claims are from each READ
 
 ## Other catalogs (similar style)
 
-Sister “awesome” lists — first-party cases / prompts — complementary to our community demos.
+Audited 2026-09-04. Sister lists are complementary; several push a paid API gateway (MuAPI / EvoLink) — useful content, just know the CTA.
 
-| Repo | Notes |
-|------|--------|
-| [Anil-matcha/awesome-gpt-6-astra](https://github.com/Anil-matcha/awesome-gpt-6-astra) | Official OpenAI use-cases, safety, launch scorecard for Astra |
-| [Anil-matcha/Awesome-GPT-5.6-API-and-Prompts](https://github.com/Anil-matcha/Awesome-GPT-5.6-API-and-Prompts) | Same maintainer: GPT-5.6 API prompts & integrations |
-| [Anil-matcha/awesome-generative-ai-apps](https://github.com/Anil-matcha/awesome-generative-ai-apps) | Cloneable generative AI app templates |
-| [Anil-matcha/awesome-claude-fable-5](https://github.com/Anil-matcha/awesome-claude-fable-5) | Claude Fable 5 twin catalog |
-| [Anil-matcha/awesome-claude-fable-5-1](https://github.com/Anil-matcha/awesome-claude-fable-5-1) | Fable 5.1 migration / launch notes |
-| [hugo0129/awesome-gpt6](https://github.com/hugo0129/awesome-gpt6) | GPT-6 case collection (CN-leaning; verify entries) |
+### Core (model catalogs)
 
-Skip name collisions: DataStax **Astra DB** lists and WordPress **Astra theme** add-ons are unrelated.
+| Repo | ★ | Verdict |
+|------|---:|---------|
+| [Anil-matcha/awesome-gpt-6-astra](https://github.com/Anil-matcha/awesome-gpt-6-astra) | 1 | **Keep** — first-party OpenAI cases, safety, scorecard (no MuAPI) |
+| [Anil-matcha/Awesome-GPT-5.6-API-and-Prompts](https://github.com/Anil-matcha/Awesome-GPT-5.6-API-and-Prompts) | 4 | **Keep w/ caveat** — long prompt catalog; heavy MuAPI CTA |
+| [Anil-matcha/awesome-claude-fable-5](https://github.com/Anil-matcha/awesome-claude-fable-5) | 386 | **Keep w/ caveat** — biggest Fable twin; MuAPI throughout |
+| [Anil-matcha/awesome-claude-fable-5-1](https://github.com/Anil-matcha/awesome-claude-fable-5-1) | 2 | **Keep** — Fable 5.1 migration / launch notes |
+
+### Adjacent Anil ecosystem
+
+| Repo | ★ | Verdict |
+|------|---:|---------|
+| [Anil-matcha/awesome-generative-ai-apps](https://github.com/Anil-matcha/awesome-generative-ai-apps) | 3.1k | **Keep** — real deployable app templates (not Astra-specific) |
+| [Anil-matcha/awesome-agent-apis](https://github.com/Anil-matcha/awesome-agent-apis) | 1.0k | **Keep** — YAML catalog of agent APIs / muapi models |
+| [Anil-matcha/awesome-dsh-plugin](https://github.com/Anil-matcha/awesome-dsh-plugin) | 998 | **Keep** — DeepSeek Harness plugins (~270 linked repos) |
+| [Anil-matcha/awesome-hermes-agent](https://github.com/Anil-matcha/awesome-hermes-agent) | 50 | **Keep** — Hermes Agent skills/tools |
+| [Anil-matcha/awesome-openclaw](https://github.com/Anil-matcha/awesome-openclaw) | 1 | **Optional** — OpenClaw resources; thin stars, real README |
+
+### Dropped / weak
+
+| Repo | Why |
+|------|-----|
+| `hugo0129/awesome-gpt6` | Empty repo (0 files) |
+| `kookhhi566-eng/awesome-prompts-2026` | Empty repo |
+| `uplagrimas-cell/Awesome-GPT-5.6-Sol-Ultra` | Not a catalog — CN billing / Stripe anti-ban notes |
+| DataStax / WordPress `awesome-astra*` | Name collision only |
+
 
 ## Contributing
 
