@@ -43,6 +43,42 @@ Original blurbs. Links only — not a scrape of other awesome lists. PRs welcome
 | [voyag-commits/Open-Source-Astra-Alternative](https://github.com/voyag-commits/Open-Source-Astra-Alternative) | Long-duration multi-agent platform (name overlap; not the OpenAI model) |
 | [Audie-glitch/awesome-x402](https://github.com/Audie-glitch/awesome-x402) | Agent USDC / HTTP 402 rails (orthogonal money path) |
 
+
+## Examples built with GPT-6 Astra
+
+Projects that claim Astra generated or drove the work. Claims are from each README/description — verify before trusting.
+
+### Games & interactive
+
+| Repo | Notes |
+|------|--------|
+| [costatattooz/super-lumen](https://github.com/costatattooz/super-lumen) | One-shot 2.5D OpenGL platformer (single Python file); README names GPT-6 Astra |
+| [marius4lui/NULLSPACE](https://github.com/marius4lui/NULLSPACE) | Survival-horror FPS in progress, developed with Astra |
+| [threapchills/MagicCarpetWizard](https://github.com/threapchills/MagicCarpetWizard) | Video game labeled “made with GPT 6 Astra” |
+| [rileycalhoun/ReadyOrNotClone](https://github.com/rileycalhoun/ReadyOrNotClone) | Ready or Not–style clone built by Astra |
+
+### Math / formalization
+
+| Repo | Notes |
+|------|--------|
+| [tadamcz/erdos1](https://github.com/tadamcz/erdos1) | Lean 4 Erdős #1 disproof (FrontierMath), found by Astra |
+| [tadamcz/erdos74](https://github.com/tadamcz/erdos74) | Lean 4 Erdős #74 disproof |
+| [tadamcz/erdos126](https://github.com/tadamcz/erdos126) | Lean 4 Erdős #126 proof |
+| [tadamcz/erdos548](https://github.com/tadamcz/erdos548) | Lean 4 Erdős #548 (Erdős–Sós) proof |
+| [tadamcz/erdos571](https://github.com/tadamcz/erdos571) | Lean 4 Erdős #571 proof |
+| [tadamcz/koethe](https://github.com/tadamcz/koethe) | Lean 4 Köthe conjecture disproof (Krempa form) |
+| [tadamcz/mean-value-problem](https://github.com/tadamcz/mean-value-problem) | Lean 4 Smale mean-value conjecture disproof |
+
+### Experiments & tooling
+
+| Repo | Notes |
+|------|--------|
+| [justinbuildsmov/oracle](https://github.com/justinbuildsmov/oracle) | Same prompt, no tools: Fable 5.1 vs Astra on 50 prediction markets |
+| [I-Cam-Mc/undumbify](https://github.com/I-Cam-Mc/undumbify) | Scopes one-shots into copy-ready Sol / Astra prompts |
+| [VoidLight00/solgate](https://github.com/VoidLight00/solgate) | Local gateway: Astra + Sol/Terra/Luna inside Claude Code |
+| [hancengiz/gpt6astra.watch](https://github.com/hancengiz/gpt6astra.watch) | Crowd-watched Astra rollout / account watcher |
+| [Anil-matcha/awesome-gpt-6-astra](https://github.com/Anil-matcha/awesome-gpt-6-astra) | Another evidence-backed Astra catalog |
+
 ## Contributing
 
 1. PR = live URL + short original blurb.
