@@ -89,6 +89,22 @@ Projects that claim Astra generated or drove the work. Claims are from each READ
 | [Anil-matcha/awesome-claude-fable-5](https://github.com/Anil-matcha/awesome-claude-fable-5) | Same maintainer’s Claude Fable 5 collection |
 | [Anil-matcha/awesome-claude-fable-5-1](https://github.com/Anil-matcha/awesome-claude-fable-5-1) | Fable 5.1 launch / migration notes |
 
+
+## Other catalogs (similar style)
+
+Sister “awesome” lists — first-party cases / prompts — complementary to our community demos.
+
+| Repo | Notes |
+|------|--------|
+| [Anil-matcha/awesome-gpt-6-astra](https://github.com/Anil-matcha/awesome-gpt-6-astra) | Official OpenAI use-cases, safety, launch scorecard for Astra |
+| [Anil-matcha/Awesome-GPT-5.6-API-and-Prompts](https://github.com/Anil-matcha/Awesome-GPT-5.6-API-and-Prompts) | Same maintainer: GPT-5.6 API prompts & integrations |
+| [Anil-matcha/awesome-generative-ai-apps](https://github.com/Anil-matcha/awesome-generative-ai-apps) | Cloneable generative AI app templates |
+| [Anil-matcha/awesome-claude-fable-5](https://github.com/Anil-matcha/awesome-claude-fable-5) | Claude Fable 5 twin catalog |
+| [Anil-matcha/awesome-claude-fable-5-1](https://github.com/Anil-matcha/awesome-claude-fable-5-1) | Fable 5.1 migration / launch notes |
+| [hugo0129/awesome-gpt6](https://github.com/hugo0129/awesome-gpt6) | GPT-6 case collection (CN-leaning; verify entries) |
+
+Skip name collisions: DataStax **Astra DB** lists and WordPress **Astra theme** add-ons are unrelated.
+
 ## Contributing
 
 1. PR = live URL + short original blurb.
