@@ -21,11 +21,13 @@ Original blurbs. Links only — not a scrape of other awesome lists.
 | [Daybreak (defensive security)](https://openai.com/index/daybreak-for-frontline-defenders/) | Authorized defensive program framing |
 | [System / deployment safety](https://deploymentsafety.openai.com/gpt-6-astra/model-safety-training-and-evaluation) | Preparedness eval writeup |
 | [OpenAI Cookbook](https://github.com/openai/openai-cookbook) | Practical API patterns |
+| [GitHub Copilot: GPT-6 Astra GA](https://github.blog/changelog/2026-09-04-gpt-6-astra-is-generally-available-in-github-copilot/) | Copilot Pro+/Max/Business/Enterprise model picker; gradual rollout |
 
 ## Gateways & SDKs
 
 | Link | Notes |
 |------|--------|
+| [OpenRouter — `openai/gpt-6-astra`](https://openrouter.ai/openai/gpt-6-astra) | Multi-provider gateway pricing, playground, and OpenAI-compatible routing |
 | [LiteLLM — Day 0 GPT-6 Astra](https://docs.litellm.ai/blog/gpt_6_astra) | Route `gpt-6-astra` through LiteLLM like other OpenAI models |
 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | Open-source AI gateway with cost tracking and multi-provider routing |
 
@@ -43,6 +45,14 @@ Original blurbs. Links only — not a scrape of other awesome lists.
 |------|--------|
 | [Responses API tutorial](https://www.elser.ai/news/gpt-6-astra-api-tutorial-responses-api) | Practical first app: reasoning, tools, structured output |
 | [Computer-use loop notes](https://blog.laozhang.ai/en/posts/gpt-6-astra-computer-use-api) | How to wire Astra computer-use via Responses |
+
+### Comparisons & notes (X)
+
+| Link | Notes |
+|------|--------|
+| [kabelsalat_info](https://x.com/kabelsalat_info/status/2096488709809996052) | Prompt-injection behavior notes (kabel-salat.info) |
+| [billion_hit](https://x.com/billion_hit/status/2096488747131154709) | JP-language Astra vs Sol guide on note.com |
+| [_nodelay](https://x.com/_nodelay/status/209648877641963282) | Astra/Codex vs Fable on env-use workflows |
 
 ## Related (not Astra-specific)
 
@@ -83,6 +93,36 @@ Projects that claim Astra generated or drove the work. Claims are from each READ
 | [marius4lui/NULLSPACE](https://github.com/marius4lui/NULLSPACE) | Survival-horror FPS in progress, developed with Astra |
 | [threapchills/MagicCarpetWizard](https://github.com/threapchills/MagicCarpetWizard) | Video game labeled “made with GPT 6 Astra” |
 | [rileycalhoun/ReadyOrNotClone](https://github.com/rileycalhoun/ReadyOrNotClone) | Ready or Not–style clone built by Astra |
+| [thebuggeddev/wright-flyer](https://github.com/thebuggeddev/wright-flyer) | 1903 Wright Flyer Japanese-forest Three.js game; README credits GPT-6 Astra |
+| [XinyuWang250428/gpt6-Astra_3.js](https://github.com/XinyuWang250428/gpt6-Astra_3.js) | Single-file Three.js miniature scenes (islands, rainy konbini, komorebi) |
+
+### Live demos (X)
+
+Tweet URLs preferred as the primary cite (Vidstra pack).
+
+| Link | Notes |
+|------|--------|
+| [higgsfield_ai](https://x.com/higgsfield_ai/status/2096487568263262643) | Astra + Higgsfield racing-game clip |
+| [bigmacfive](https://x.com/bigmacfive/status/2096488268280017281) | Chrono Trigger–style browser RPG demo |
+| [TarunShipIt](https://x.com/TarunShipIt/status/2096484595504120147) | Moon combat demo hosted on `*.chatgpt.site` |
+| [yungcontent](https://x.com/yungcontent/status/2096484748034183342) | Food-delivery game video walkthrough |
+| [WoahWurdz](https://x.com/WoahWurdz/status/2096487370753225036) | Blender + Three.js voxel free-roam |
+| [groovestreetgen](https://x.com/groovestreetgen/status/2096487719983841439) | Editable 3D dragon with Blender roundtrip |
+| [LiFeng61532](https://x.com/LiFeng61532/status/2096485594759373269) | Codex ↔ Blender MCP workflow that ships a game |
+
+### Live demos & sites
+
+| Link | Notes |
+|------|--------|
+| [Daybreak piano film](https://daybreak-piano-film.lexn8.chatgpt.site/) | Cinematic piano performance site; pairs with [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) |
+| [Brandenburg Piano](https://brandenburg-piano.vercel.app/) | Interactive Bach Brandenburg piano experience |
+| [Van Gogh’s town](https://van-goghs-town.surge.sh/) | Painterly explorable town (“a town made of paint”) |
+| [Human Atlas](https://human-atlas-seven.vercel.app) | 3D anatomy explorer; source [ashemag/human-atlas](https://github.com/ashemag/human-atlas) |
+| [Blackline Combat](https://blackline-combat.tkmishra592.chatgpt.site/) | Combat demo on ChatGPT Sites (may gate non-session clients) |
+| [Astra Ready Room](https://astra-ready-room.vercel.app/) | Ready Room interactive demo branded around Astra |
+| [CYBER SUV studio](https://cyber-suv-studio.banny911.chatgpt.site/) | Interactive cyber-SUV design showroom |
+| [PISCES private bar](https://pisces-private-bar.stossel1.chatgpt.site/) | Members-bar atmosphere / scene demo |
+| [Pelagic ocean](https://pelagic-ocean.lexn8.chatgpt.site/) | Ocean & atmosphere immersive scene |
 
 ### Math / formalization
 
@@ -107,6 +147,10 @@ Projects that claim Astra generated or drove the work. Claims are from each READ
 | [Anil-matcha/awesome-gpt-6-astra](https://github.com/Anil-matcha/awesome-gpt-6-astra) | **Sister catalog:** first-party OpenAI use-cases, prompts, benchmarks, safety — complementary to our community/orchestrator focus |
 | [Anil-matcha/awesome-claude-fable-5](https://github.com/Anil-matcha/awesome-claude-fable-5) | Same maintainer’s Claude Fable 5 collection |
 | [Anil-matcha/awesome-claude-fable-5-1](https://github.com/Anil-matcha/awesome-claude-fable-5-1) | Fable 5.1 launch / migration notes |
+| [gokayfem/H3-Max-Blender](https://github.com/gokayfem/H3-Max-Blender) | Blender neural-render demo: one gray ship, four AI styles as geometry grows (Astra + H3 Max) |
+| [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | Codex/skill pack aimed at less-generic creative output (Daybreak piano adjacent) |
+| [Prism-Shadow/travel-agent](https://github.com/Prism-Shadow/travel-agent) | Browser agent: PenguinHarness + penguin-browser with write-ahead recovery / human handoff |
+| [MohtashamMurshid/md-to-docx](https://github.com/MohtashamMurshid/md-to-docx) | TypeScript Markdown→DOCX library/CLI for Node and browser |
 
 
 ## Other catalogs (similar style)
@@ -121,6 +165,8 @@ Audited 2026-09-04. Sister lists are complementary; several push a paid API gate
 | [Anil-matcha/Awesome-GPT-5.6-API-and-Prompts](https://github.com/Anil-matcha/Awesome-GPT-5.6-API-and-Prompts) | 4 | **Keep w/ caveat** — long prompt catalog; heavy MuAPI CTA |
 | [Anil-matcha/awesome-claude-fable-5](https://github.com/Anil-matcha/awesome-claude-fable-5) | 386 | **Keep w/ caveat** — biggest Fable twin; MuAPI throughout |
 | [Anil-matcha/awesome-claude-fable-5-1](https://github.com/Anil-matcha/awesome-claude-fable-5-1) | 2 | **Keep** — Fable 5.1 migration / launch notes |
+| [MartinDelophy/awesome-gpt-6-astra](https://github.com/MartinDelophy/awesome-gpt-6-astra) | — | **Sister** — games/demos/prompts catalog (CN+EN); complementary, not a scrape |
+| [xianyu110/awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra) | — | **Sister** — merged community games/demos/projects/benchmarks catalog |
 
 ### Adjacent Anil ecosystem
 
